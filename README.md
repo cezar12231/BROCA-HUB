@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "Broca Hub | Ajustado por Cezar", HidePremium = false, SaveConfig = false, IntroText = "Broca Hub"})
+local Window = OrionLib:MakeWindow({Name = "Ceasar vai editar ctz", HidePremium = false, SaveConfig = false, IntroText = "Broca Hub"})
 
 local MainTab = Window:MakeTab({
     Name = "Funções",
